@@ -127,6 +127,10 @@ txt.replace("H", "J")
 - Mengganti huruf H menjadi J.
 Output: "Jello World"  
 
+### Output  
+
+![gambar](ss/1.png)
+
 ### Penjelasan Latihan 2  
 - Membuat variabel umur dengan nilai 24.  
 ``` python
@@ -145,6 +149,11 @@ Output menjadi:
 ``` python
 Hello, nama saya Tedi, dan umur saya adalah 17 tahun
 ```  
+
+### Output  
+
+![gambar](ss/2.png)
+
 ### Penjelasan Studi Kasus: Validasi Form Input  
 
 1. Komentar Judul Program  
@@ -270,6 +279,10 @@ Penjelasan:
 - Jika valid == False:  
 
 &nbsp;&nbsp;&nbsp;&nbsp;Pesan ini tidak ditampilkan  
+
+### Output  
+
+![gambar](ss/3.png)  
 
 ### Kesimpulan  
 
